@@ -4,6 +4,9 @@ MCP server + CLI that gives AI coding agents web search capabilities for resolvi
 
 AI coding agents (Claude Code, Cursor, Copilot, etc.) get stuck on errors they can't resolve — version mismatches, obscure library bugs, cryptic messages. The fix is what any developer would do: google it. **just-google-it** gives agents that ability.
 
+<img width="1280" height="654" alt="image" src="https://github.com/user-attachments/assets/98dd26c0-b2ec-48ce-8531-bbb566dc9b9a" />
+
+
 ## Quick Start
 
 ```bash
